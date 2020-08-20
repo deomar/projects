@@ -7,11 +7,13 @@
 # Deomar Santos
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sempre tive muito interesse por matemática, inovação e pessoas. Durante a universidade tive a oportunidade de participar de projetos de pesquisa básica, desenvolvimento de projetos de engenharia e gestão de pessoas. Assim tendo uma visão prática da inter-relação entre a pesquisa de base com o público em geral.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Nesse período aprendi que sou fascinado pela forma que podemos transformar o conhecimento científico em produtos utilizáveis e como podemos aproximar a teoria das pessoas através de uma linguagem acessível e aplicada.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Motivado por essa identificação, atualmente atuo como estagiário na área de inovação da Amcham Brasil onde tenho a oportunidade de aplicar as habilidades analíticas da engenharia na melhoria de fluxos e processos de tomadas de decisão e ainda ter o contato diário com o ecossistema empreendedor da área de negócios. 
+
+**Background in:** Python, Machine Learning.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
