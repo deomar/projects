@@ -16,22 +16,20 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
-
+* [LinkedIn](https://www.linkedin.com/in/deomar-santos-da-silva-junior-213903197/)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de ligações de emergência (911):** http://bit.ly/DS911calls
+
+<!--- * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
+--->
 ---
 
 
