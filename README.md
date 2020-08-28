@@ -5,7 +5,7 @@
 </p>
 
 # Deomar Santos
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<!--- <sub>*Lead Data Scientist* at Space Operations Center</sub> --->
 
 Sempre tive muito interesse por matemática, inovação e pessoas. Durante a universidade tive a oportunidade de participar de projetos de pesquisa básica, desenvolvimento de projetos de engenharia e gestão de pessoas. Assim tendo uma visão prática da inter-relação entre a pesquisa de base com o público em geral.
 
