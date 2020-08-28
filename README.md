@@ -20,9 +20,9 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 
 ## Projetos:
 
-* **Análise de ligações de emergência (911):** http://bit.ly/DS911calls
-
-<!--- * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de ligações de emergência (911):** http://bit.ly/ds911calls
+<!---
+ * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
