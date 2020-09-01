@@ -35,7 +35,7 @@ Pretendo transformar esses relatórios em notebooks.
 
 
 ### Python for data science (Notebooks)
-A linguagem dos notebooks abaixo está quase totalmente técnica. Pretendo editar para deixá-la mais explicativa e acessível.
+A linguagem dos notebooks abaixo está com enfoque bem técnico. Pretendo editar para deixá-la mais explicativa e acessível.
 * **Deep Learning (Keras):** http://bit.ly/dsKeras
 * **Processamento de Linguagem Natural (NLP):** http://bit.ly/dsNLProcessing
 * **Sistemas de recomendação:** http://bit.ly/dsRecommenderSystems
