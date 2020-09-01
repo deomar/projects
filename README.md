@@ -20,6 +20,16 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 
 ## Projetos:
 
+* **Deep Learning (Keras):** http://bit.ly/dsKeras
+* **Processamento de Linguagem Natural (NLP):** http://bit.ly/dsNLProcessing
+* **Sistemas de recomendação:** http://bit.ly/dsRecommenderSystems
+* **K-Means Clustering:** http://bit.ly/dsKMeansCluster
+* **Support Vector Machines:** http://bit.ly/dsSVM
+* **Random Forest:** http://bit.ly/dsRandomForest
+* **K-Nearest:** http://bit.ly/dsKNearest
+* **Regressão logística:** http://bit.ly/dsRegressaoLogistica
+* **Regressão linear:** http://bit.ly/dsLinearRegression
+* **Análise exploratório de preços de stock:** http://bit.ly/dsfinancas
 * **Análise de ligações de emergência (911):** http://bit.ly/ds911calls
 <!---
  * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
