@@ -13,12 +13,12 @@ Nesse período aprendi que sou fascinado pela forma que podemos transformar o co
 
 Motivado por essa identificação, atualmente atuo como estagiário na área de inovação da Amcham Brasil onde tenho a oportunidade de aplicar as habilidades analíticas da engenharia na melhoria de fluxos e processos de tomadas de decisão e ainda ter o contato diário com o ecossistema empreendedor da área de negócios. 
 
-Abaixo, como primeira versão, anexo os trabalhos feitos por mim.
-
 **Background in:** Python, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/deomar-santos-da-silva-junior-213903197/)
+
+Abaixo, como primeira versão, anexo os trabalhos feitos por mim.
 
 ## Projetos:
 
