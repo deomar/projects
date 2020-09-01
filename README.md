@@ -20,6 +20,17 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 
 ## Projetos:
 
+###Python from scratch
+* **Redes Neurais implementadas em portas lógicas (from scratch):** http://bit.ly/dsNeuralNetwork
+* **Classificação de espécies de flores por SVM (from scratch):** http://bit.ly/dsSVMIris
+* **Categorização de câncer maligno e benigno por PCA (from scratch):** http://bit.ly/dsPCACancer
+* **Resolução numérica e aplicação da Equações Diferenciais Estocásticas (from scratch):** http://bit.ly/dsEDEst
+* **Cadeias de Markov aplicadas a NLP (from scratch):** http://bit.ly/dsMarkov
+* **Kernel Density Estimation (from scratch):** http://bit.ly/dsKDE
+* **Séries temporais: modelo autoregressivo (from scratch):** http://bit.ly/dsAR
+
+
+### Python for data science
 * **Deep Learning (Keras):** http://bit.ly/dsKeras
 * **Processamento de Linguagem Natural (NLP):** http://bit.ly/dsNLProcessing
 * **Sistemas de recomendação:** http://bit.ly/dsRecommenderSystems
@@ -29,7 +40,7 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 * **K-Nearest:** http://bit.ly/dsKNearest
 * **Regressão logística:** http://bit.ly/dsRegressaoLogistica
 * **Regressão linear:** http://bit.ly/dsLinearRegression
-* **Análise exploratório de preços de stock:** http://bit.ly/dsfinancas
+* **Análise exploratória de preços de stock:** http://bit.ly/dsfinancas
 * **Análise de ligações de emergência (911):** http://bit.ly/ds911calls
 <!---
  * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
