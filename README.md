@@ -13,6 +13,8 @@ Nesse período aprendi que sou fascinado pela forma que podemos transformar o co
 
 Motivado por essa identificação, atualmente atuo como estagiário na área de inovação da Amcham Brasil onde tenho a oportunidade de aplicar as habilidades analíticas da engenharia na melhoria de fluxos e processos de tomadas de decisão e ainda ter o contato diário com o ecossistema empreendedor da área de negócios. 
 
+Abaixo, como primeira versão, anexo os trabalhos feitos por mim.
+
 **Background in:** Python, Machine Learning.
 
 **Links:**
@@ -21,6 +23,8 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 ## Projetos:
 
 ### Python from scratch (Formato de relatório)
+Pretendo transformar esses relatórios em notebooks.
+
 * **Redes Neurais implementadas em portas lógicas (from scratch):** http://bit.ly/dsNeuralNetwork
 * **Classificação de espécies de flores por SVM (from scratch):** http://bit.ly/dsSVMIris
 * **Categorização de câncer maligno e benigno por PCA (from scratch):** http://bit.ly/dsPCACancer
@@ -30,7 +34,8 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 * **Séries temporais: modelo autoregressivo (from scratch):** http://bit.ly/dsAR
 
 
-### Python for data science (Formato de notebook)
+### Python for data science (Notebooks)
+A linguagem dos notebooks abaixo está quase totalmente técnica. Pretendo editar para deixá-la mais explicativa e acessível.
 * **Deep Learning (Keras):** http://bit.ly/dsKeras
 * **Processamento de Linguagem Natural (NLP):** http://bit.ly/dsNLProcessing
 * **Sistemas de recomendação:** http://bit.ly/dsRecommenderSystems
