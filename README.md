@@ -20,7 +20,7 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 
 ## Projetos:
 
-###Python from scratch
+### Python from scratch
 * **Redes Neurais implementadas em portas lógicas (from scratch):** http://bit.ly/dsNeuralNetwork
 * **Classificação de espécies de flores por SVM (from scratch):** http://bit.ly/dsSVMIris
 * **Categorização de câncer maligno e benigno por PCA (from scratch):** http://bit.ly/dsPCACancer
