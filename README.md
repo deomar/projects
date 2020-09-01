@@ -20,17 +20,17 @@ Motivado por essa identificação, atualmente atuo como estagiário na área de 
 
 ## Projetos:
 
-### Python from scratch
+### Python from scratch (Formato de relatório)
 * **Redes Neurais implementadas em portas lógicas (from scratch):** http://bit.ly/dsNeuralNetwork
 * **Classificação de espécies de flores por SVM (from scratch):** http://bit.ly/dsSVMIris
 * **Categorização de câncer maligno e benigno por PCA (from scratch):** http://bit.ly/dsPCACancer
-* **Resolução numérica e aplicação da Equações Diferenciais Estocásticas (from scratch):** http://bit.ly/dsEDEst
+* **Resolução numérica e aplicação da Equações Diferenciais Estocásticas em um circuito RC (from scratch):** http://bit.ly/dsEDEst
 * **Cadeias de Markov aplicadas a NLP (from scratch):** http://bit.ly/dsMarkov
 * **Kernel Density Estimation (from scratch):** http://bit.ly/dsKDE
 * **Séries temporais: modelo autoregressivo (from scratch):** http://bit.ly/dsAR
 
 
-### Python for data science
+### Python for data science (Formato de notebook)
 * **Deep Learning (Keras):** http://bit.ly/dsKeras
 * **Processamento de Linguagem Natural (NLP):** http://bit.ly/dsNLProcessing
 * **Sistemas de recomendação:** http://bit.ly/dsRecommenderSystems
